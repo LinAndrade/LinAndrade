@@ -8,7 +8,7 @@
 
 ##### I also study philosophy φ and have experience in the area of education 📖
 
-<a href="https://www.linkedin.com/in/lincoln-pontes-4608521ba" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://instagram.com/lonc_nil" target="_blank">   <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lincoln-andrade-4608521ba/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://instagram.com/lonc_nil" target="_blank">   <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block;">
     <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LinAndrade&theme=merko&hide=GDScript&layout=compact">
